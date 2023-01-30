@@ -12,7 +12,7 @@ namespace ej_1
         {
 
             Console.WriteLine("Programa que visualiza los múltiplos de tres hasta un número límite\n");
-
+            Console.WriteLine("Testeo");
             Console.Write("Ingresa el valor límite: ");
             int limite = Convert.ToInt32(Console.ReadLine());
 
