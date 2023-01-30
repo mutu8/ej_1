@@ -14,7 +14,7 @@ namespace ej_1
             Console.WriteLine("Programa que visualiza los múltiplos de tres hasta un número límite\n");
 
             Console.Write("Ingresa el valor límite: ");
-            int limite = Convert.ToInt32(Console.ReadLine());
+            int limite = Convert.ToInt32(Console.ReadLine()); //CONVERTIMOS EL VALOR A ENTERO 
 
             Console.WriteLine("\nCon el ciclo for, los múltiplos de tres hasta el número {0} son:", limite);
 
